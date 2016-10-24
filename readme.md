@@ -1,6 +1,7 @@
 # README OF BUSPOLIS
 
 ## Guide
+![Guide]()
 `Guide.png`에서 확인해 주세요.
 
 ## Resources
@@ -60,3 +61,24 @@
 - `#0054A6` : 경강선
 - `#FDA600` : 의정부경전철
 - `#4EA346` : 용인 경전철
+
+## Translate
+
+- 메인화면 액션바의 'Where are you going'부분
+~~~
+ENG : Where are you going?
+JPN : どこに行くの？
+CHN : 你去哪里?
+~~~
+- Tutorial 2의 타이틀 부분
+~~~
+ENG : Hello!
+JPN : ようこそ!
+CNY : 你好!
+~~~
+- Tutorial 3의 강남역
+~~~
+ENG : Gangnam Stn.
+JPN : カンナム駅
+CNY : 江南站
+~~~
