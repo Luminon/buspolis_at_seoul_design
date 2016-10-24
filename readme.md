@@ -1,7 +1,7 @@
 # README OF BUSPOLIS
 
 ## Guide
-![Guide]()
+![img](guide.png)
 `Guide.png`에서 확인해 주세요.
 
 ## Resources
